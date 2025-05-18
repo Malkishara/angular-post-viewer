@@ -13,20 +13,21 @@ Before setting up the project, ensure the following tools are installed on your 
 
 ### Clone the repository
 
-git clone https://github.com/Malkishara/angular-post-viewer.git
+- Open gitbash in directory that you need to create project.
+- Run 'git clone https://github.com/Malkishara/angular-post-viewer.git' command on gitbash.
 
 ### Go to the project directory
 
-cd angular-post-viewer
+- Open command prompt and run 'cd angular-post-viewer' command.
 
 ### Install dependencies
 
-npm install
+- Run 'npm install' command.
 
 ## Running the App
 
 - Run 'ng serve' command on terminal.
--Navigate to http://localhost:4200 in your browser to see the app running.
+- Navigate to http://localhost:4200 in your browser to see the app running.
 
 
 ## Running Unit Tests
