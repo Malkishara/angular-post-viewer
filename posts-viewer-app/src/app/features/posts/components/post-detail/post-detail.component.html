@@ -1,0 +1,9 @@
+<div class="post-detail-wrapper">
+  <h1>Post Details</h1>
+
+
+<div class="post-detail-container" *ngIf="post && comments">
+  <app-post-content [post]="post"></app-post-content>
+  <app-comments [comments]="comments"></app-comments>
+</div>
+</div>

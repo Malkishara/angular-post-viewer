@@ -1,0 +1,10 @@
+<div>
+<h1>Posts List </h1>
+<div class="card-grid">
+  <app-post-card *ngFor="let post of posts" [title]="post.title" [body]="truncate(post.body, 75,70)" [id]="post.id"></app-post-card>
+</div>
+<div class="load-more-container" *ngIf="hasMore">
+  <button (click)="loadMorePosts()">Load More</button>
+</div>
+</div>
+

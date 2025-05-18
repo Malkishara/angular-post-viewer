@@ -1,0 +1,56 @@
+h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #36176b;
+  text-align: center;
+  border-bottom: 2px solid #6b6868;
+  padding-bottom: 0.5rem;
+}
+
+
+.card-grid {
+  display: grid;
+  gap: 1rem;
+  padding: 1rem;
+
+  // Mobile
+  grid-template-columns: repeat(1, 1fr);
+
+  @media (min-width: 768px) {
+    // Tablet
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 1024px) {
+    // Desktop
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+.load-more-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.load-more-container button {
+  background-color: #091624;
+  color: #fff;
+  border: 2px solid #0a0a0a;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+
+  &:hover {
+    background-color: #023061;
+    transform: scale(1.05);
+  }
+
+  &:active {
+    transform: scale(0.98);
+  }
+}

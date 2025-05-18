@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of AI in Everyday Life",
+    "body": "Artificial Intelligence is rapidly becoming a part of our everyday routines, from smart assistants to personalized recommendations.",
+    "userId": 1,
+    "tags": ["AI", "Technology", "Future"],
+    "createdAt": "2025-01-05T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Top 10 Web Development Tools in 2025",
+    "body": "Web development continues to evolve with new tools that improve productivity and performance. Here are our top picks.",
+    "userId": 2,
+    "tags": ["Web Development", "Tools", "2025"],
+    "createdAt": "2025-01-07T09:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Benefits of Meditation for Developers",
+    "body": "Mental health is crucial in the tech industry. Learn how meditation can improve your focus and reduce burnout.",
+    "userId": 3,
+    "tags": ["Meditation", "Mental Health", "Developers"],
+    "createdAt": "2025-01-10T08:45:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Understanding Blockchain Technology",
+    "body": "Blockchain goes beyond cryptocurrency. It's transforming industries with transparency and security.",
+    "userId": 4,
+    "tags": ["Blockchain", "Technology", "Security"],
+    "createdAt": "2025-01-12T11:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "A Guide to Responsive Web Design",
+    "body": "Responsive design is critical for user experience across devices. This guide walks you through best practices.",
+    "userId": 5,
+    "tags": ["Responsive Design", "Web Design", "UX"],
+    "createdAt": "2025-01-14T14:30:00Z"
+  },
+  {
+    "id": 6,
+    "title": "How to Build a RESTful API with Node.js",
+    "body": "Learn to create a fully functional REST API using Express and Node.js with this beginner-friendly tutorial.",
+    "userId": 6,
+    "tags": ["Node.js", "API", "Tutorial"],
+    "createdAt": "2025-01-15T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Exploring React Hooks",
+    "body": "React Hooks have changed the way we write components. Understand useState, useEffect, and more in this post.",
+    "userId": 7,
+    "tags": ["React", "Hooks", "JavaScript"],
+    "createdAt": "2025-01-16T10:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Tips for Landing Your First Tech Job",
+    "body": "Breaking into tech can be tough. These tips can help new grads and career changers make a great first impression.",
+    "userId": 8,
+    "tags": ["Career", "Tech Jobs", "Advice"],
+    "createdAt": "2025-01-17T10:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Top UX Mistakes and How to Avoid Them",
+    "body": "A poor user experience can drive users away. Here are common UX pitfalls and ways to fix them.",
+    "userId": 9,
+    "tags": ["UX", "Design", "Mistakes"],
+    "createdAt": "2025-01-18T10:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Getting Started with Machine Learning",
+    "body": "Curious about machine learning? Start your journey here with an introduction to basic concepts and tools.",
+    "userId": 10,
+    "tags": ["Machine Learning", "AI", "Beginner"],
+    "createdAt": "2025-01-19T10:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Improving Web Performance with Lazy Loading",
+    "body": "Lazy loading helps speed up your website by deferring non-critical resources until needed.",
+    "userId": 1,
+    "tags": ["Performance", "Lazy Loading", "Web"],
+    "createdAt": "2025-01-20T10:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Why TypeScript is the Future of JavaScript",
+    "body": "TypeScript brings strong typing to JavaScript development. Here's why many developers are switching.",
+    "userId": 2,
+    "tags": ["TypeScript", "JavaScript", "Development"],
+    "createdAt": "2025-01-21T10:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Introduction to Docker and Containers",
+    "body": "Containers make it easier to deploy apps consistently. Docker simplifies this process with powerful tooling.",
+    "userId": 3,
+    "tags": ["Docker", "Containers", "DevOps"],
+    "createdAt": "2025-01-22T10:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Creating Mobile Apps with React Native",
+    "body": "React Native lets you build cross-platform mobile apps using JavaScript and React.",
+    "userId": 4,
+    "tags": ["React Native", "Mobile", "Cross-Platform"],
+    "createdAt": "2025-01-23T10:00:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Deploying Your App to the Cloud",
+    "body": "Cloud platforms like AWS and Azure make app deployment scalable and reliable. Here's how to get started.",
+    "userId": 5,
+    "tags": ["Cloud", "Deployment", "AWS"],
+    "createdAt": "2025-01-24T10:00:00Z"
+  },
+  {
+    "id": 16,
+    "title": "Understanding Git and Version Control",
+    "body": "Git is essential for collaboration and code history. This post covers the basics every developer should know.",
+    "userId": 6,
+    "tags": ["Git", "Version Control", "Basics"],
+    "createdAt": "2025-01-25T10:00:00Z"
+  },
+  {
+    "id": 17,
+    "title": "Top 5 Programming Languages to Learn",
+    "body": "Want to boost your coding career? These five languages are in high demand in 2025.",
+    "userId": 7,
+    "tags": ["Programming", "Languages", "Career"],
+    "createdAt": "2025-01-26T10:00:00Z"
+  },
+  {
+    "id": 18,
+    "title": "How to Secure Your Web Applications",
+    "body": "Security should never be an afterthought. Learn common vulnerabilities and how to protect your app.",
+    "userId": 8,
+    "tags": ["Security", "Web", "Best Practices"],
+    "createdAt": "2025-01-27T10:00:00Z"
+  },
+  {
+    "id": 19,
+    "title": "CSS Grid vs Flexbox: Which Should You Use?",
+    "body": "Both are powerful layout systems. Learn their differences and when to choose one over the other.",
+    "userId": 9,
+    "tags": ["CSS", "Flexbox", "Grid"],
+    "createdAt": "2025-01-28T10:00:00Z"
+  },
+  {
+    "id": 20,
+    "title": "Working Remotely as a Developer",
+    "body": "Remote work is the new norm. Here are tips and tools for staying productive and connected.",
+    "userId": 10,
+    "tags": ["Remote Work", "Productivity", "Developer Life"],
+    "createdAt": "2025-01-29T10:00:00Z"
+  },
+  {
+    "id": 21,
+    "title": "What’s New in ES2025?",
+    "body": "The latest ECMAScript update brings exciting features to JavaScript. Discover what's new.",
+    "userId": 1,
+    "tags": ["JavaScript", "ES2025", "Updates"],
+    "createdAt": "2025-01-30T10:00:00Z"
+  },
+  {
+    "id": 22,
+    "title": "Dark Mode Design Tips",
+    "body": "Dark mode is more popular than ever. Learn how to design interfaces that look great in the dark.",
+    "userId": 2,
+    "tags": ["Dark Mode", "UI Design", "Trends"],
+    "createdAt": "2025-01-31T10:00:00Z"
+  },
+  {
+    "id": 23,
+    "title": "How to Contribute to Open Source",
+    "body": "Giving back to the community is rewarding. Here's how to start contributing to open-source projects.",
+    "userId": 3,
+    "tags": ["Open Source", "GitHub", "Community"],
+    "createdAt": "2025-02-01T10:00:00Z"
+  },
+  {
+    "id": 24,
+    "title": "Mastering the Command Line",
+    "body": "The terminal is a powerful tool. Boost your productivity with these essential command-line tips.",
+    "userId": 4,
+    "tags": ["CLI", "Productivity", "Tips"],
+    "createdAt": "2025-02-02T10:00:00Z"
+  },
+  {
+    "id": 25,
+    "title": "Developing REST APIs with Spring Boot",
+    "body": "Spring Boot simplifies Java backend development. Learn to build and test RESTful APIs efficiently.",
+    "userId": 5,
+    "tags": ["Spring Boot", "Java", "REST API"],
+    "createdAt": "2025-02-03T10:00:00Z"
+  },
+  {
+    "id": 26,
+    "title": "Async/Await in JavaScript Explained",
+    "body": "Simplify asynchronous code with async/await. This post explains how it works with examples.",
+    "userId": 6,
+    "tags": ["JavaScript", "Async", "Await"],
+    "createdAt": "2025-02-04T10:00:00Z"
+  },
+  {
+    "id": 27,
+    "title": "Building Real-Time Apps with Socket.IO",
+    "body": "Real-time communication is key for modern apps. Learn how to implement it using Socket.IO.",
+    "userId": 7,
+    "tags": ["Socket.IO", "Real-Time", "JavaScript"],
+    "createdAt": "2025-02-05T10:00:00Z"
+  },
+  {
+    "id": 28,
+    "title": "Integrating Stripe Payments in Your App",
+    "body": "Monetizing your app? Here's a step-by-step guide to integrating Stripe for secure payments.",
+    "userId": 8,
+    "tags": ["Stripe", "Payments", "Integration"],
+    "createdAt": "2025-02-06T10:00:00Z"
+  },
+  {
+    "id": 29,
+    "title": "Using Firebase for Real-Time Databases",
+    "body": "Firebase makes it easy to build apps with real-time data sync and user authentication.",
+    "userId": 9,
+    "tags": ["Firebase", "Real-Time", "Database"],
+    "createdAt": "2025-02-07T10:00:00Z"
+  },
+  {
+    "id": 30,
+    "title": "Improving Accessibility in Web Design",
+    "body": "Accessibility is crucial for inclusivity. Here are best practices for building accessible web apps.",
+    "userId": 10,
+    "tags": ["Accessibility", "Web Design", "Inclusive"],
+    "createdAt": "2025-02-08T10:00:00Z"
+  }
+]

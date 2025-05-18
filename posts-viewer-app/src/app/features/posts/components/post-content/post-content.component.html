@@ -1,0 +1,13 @@
+ <div class="post-content">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.body }}</p>
+
+    <p><strong>Author ID: </strong> {{ post.userId }}</p>
+    <p><strong>Created At: </strong> {{ post.createdAt | date:'medium' }}</p>
+
+    <p><strong>Tags: </strong>
+      <span *ngFor="let tag of post.tags; let last = last">
+        {{ tag }}<span *ngIf="!last">, </span>
+      </span>
+    </p>
+  </div>
